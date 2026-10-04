@@ -86,6 +86,8 @@ if __name__ == "__main__":
  
 
  # for running , in the terminal run the following command
+ # in one terminal, python server.py
+ # in the another terminal, run the following command to start the MCP Inspector:
  # npx @modelcontextprotocol/inspector --server-url http://localhost:8001/mcp --transport http
  # it will open the mcp inspector in the browser, where you can test the tools and see the logs.
  # MCP Inspector is now available at http://127.0.0.1:6274
