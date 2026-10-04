@@ -1,0 +1,9 @@
+[2026-10-03 17:22:52] mcp server is listening
+[2026-10-03 17:23:21] mcp server is listening
+[2026-10-03 17:23:27] mcp server is listening
+2026-10-03 17:23:27,176 INFO tool=getproducts action=start payload={}
+2026-10-03 17:23:27,196 INFO tool=getproducts action=success payload={'status_code': 200}
+[2026-10-03 17:23:32] mcp server is listening
+2026-10-03 17:23:32,232 INFO tool=create_product action=start payload={'name': 'mcp-server-validation', 'description': 'created during validation', 'price': '42.00'}
+2026-10-03 17:23:32,250 INFO tool=create_product action=success payload={'status_code': 201, 'request': {'name': 'mcp-server-validation', 'description': 'created during validation', 'price': '42.00'}}
+[2026-10-03 17:24:09] mcp server is listening
